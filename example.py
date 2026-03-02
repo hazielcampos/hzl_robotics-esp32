@@ -21,6 +21,7 @@ def loop():
         corrected = int((i / 255) ** 2.2 * 255)
         esp32.ledcWrite(4, corrected)
         time.sleep(0.01)
+    esp32.analogRead
 
 try:   
     esp32.start()
