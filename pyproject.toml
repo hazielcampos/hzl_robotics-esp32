@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "hzl-robotics-esp32"
-version = "0.1.0"
+version = "0.1.1"
 description = "High speed ESP32 IO framework for robotics"
 authors = [
   { name="Haziel Campos", email="user.haziel@gmail.com" }

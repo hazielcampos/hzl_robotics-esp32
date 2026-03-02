@@ -1,4 +1,4 @@
-from src.hzl_robotics_esp32 import ESP32
+from hzl_robotics_esp32 import ESP32
 import time
 import math
 
