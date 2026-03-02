@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/tuusuario/hzl_robotics"
+"Homepage" = "https://github.com/hazielcampos/hzl_robotics-esp32"
 
 [tool.setuptools.packages.find]
 where = ["src"]
